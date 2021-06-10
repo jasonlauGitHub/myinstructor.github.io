@@ -2,9 +2,8 @@
 
 ### Web development basics
 
-1. [Intro to web pages](https://myinstructor.github.io/Courses/web_dev_1.html)
+1. [Intro to web pages](https://myinstructor.github.io/Courses/web_dev_1.html)<br>
 
-<br>
 ### Useful links
 
 - [Atom text editor](https://atom.io/)
