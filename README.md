@@ -4,7 +4,7 @@
 
 1. [Intro to web pages](https://myinstructor.github.io/Courses/web_dev_1.html)
 
-<br>
+
 ### Useful links
 
 - [Atom text editor](https://atom.io/)
