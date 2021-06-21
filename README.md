@@ -1,8 +1,14 @@
 ## My courses
 
-### Web development basics
+### Web development basics (examples)
 
-1. [Intro to web pages](https://myinstructor.github.io/Courses/web_dev_1.html)
+- [Header](https://myinstructor.github.io/Examples/HTML/header.html)
+- [Float](https://myinstructor.github.io/Examples/HTML/float.html)
+- [Flexbox](https://myinstructor.github.io/Examples/HTML/flexbox.html)
+- [Media](https://myinstructor.github.io/Examples/HTML/media.html)
+- [Table](https://myinstructor.github.io/Examples/HTML/table.html)
+- [Form](https://myinstructor.github.io/Examples/HTML/form.html)
+- [Animation](https://myinstructor.github.io/Examples/HTML/animation.html)
 
 
 ### Useful links

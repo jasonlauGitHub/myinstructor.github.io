@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+/* Importing a CSS file */
+@import "base.css";
+
+
+/* Header */
+
+header {
+  background-color: #00945f;
+  height: 56px;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  line-height: 56px;
+  letter-spacing: .2px;
+}
+
+nav {
+  margin-left: 50px;
+  font-size: 0;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline;
+  line-height: 56px;
+  cursor: default;
+}
+
+nav ul li a {
+  font-size: 17px;
+  color: #000;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: .2px;
+  text-transform: none;
+  cursor: pointer;
+}
+
+/* CSS peseudo-class */
+nav ul li a:hover {
+  color: #00945f;
+}
+
+/* Adding a style to all <li> that follows another <li> - skip the first one */
+nav ul li + li {
+  margin-left: 25px;
+}
