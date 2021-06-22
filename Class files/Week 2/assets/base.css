@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+/*
+  The @charset rule specifies the character encoding used in the style sheet
+  @charset must be the first element in the style sheet and not be preceded by
+  any character. If several @charset rules are defined, only the first one is
+  used. The @charset rule cannot be used inside a style attribute (on an HTML
+  element), or inside the <style> element where the character set of the HTML
+  page is relevant
+*/
+
+/*
+  A character in UTF8 can be from 1 to 4 bytes long. UTF-8 can represent any
+  character in the Unicode standard. UTF-8 is backwards compatible with ASCII.
+  UTF-8 is the preferred encoding for e-mail and web pages
+*/
+
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - */
+/*  Base                                             */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+/* Preventing the browser from using its own rules - 'zeroing' the styles */
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  outline: 0;
+  box-shadow: none;
+  box-sizing: border-box;
+  vertical-align: baseline;
+}
+
+/* To ensure that this font is applied to all elements that contain text */
+/* For some reason '*' doesn't 'see' form placeholders and textareas */
+*, body {
+  font-family: 'Nunito Sans', Lato, Arial, sans-serif;
+}
+
+/* Multi-purpose container - centered div */
+.container {
+  width: 90%;
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+/*
+  CSS vendor prefixes, also sometimes known as or CSS browser prefixes, are a
+  way for browser makers to add support for new CSS features before those
+  features are fully supported in all browsers. This may be done during a sort
+  of testing and experimentation period where the browser manufacturer is
+  determining exactly how these new CSS features will be implemented. These
+  prefixes became very popular with the rise of CSS3 a few years ago
+*/
+h1, h2, div, p, a, li {
+  -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}

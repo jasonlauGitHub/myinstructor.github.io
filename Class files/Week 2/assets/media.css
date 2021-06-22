@@ -1,0 +1,88 @@
+@import "base.css";
+
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - */
+/*  Header                                           */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+header {
+  background-color: #00945f;
+}
+
+.flexbox {
+  display: flex;
+}
+
+.heading {
+  height: 56px;
+  width: 40%;
+}
+
+.heading h1 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  line-height: 56px;
+  letter-spacing: .2px;
+}
+
+nav {
+  width: 60%;
+  text-align: right;
+  height: 56px;
+  font-size: 0;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline;
+  line-height: 56px;
+  cursor: default;
+}
+
+nav ul li a {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: .2px;
+  transition: color .25s ease-in-out;
+  cursor: pointer;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+nav ul li + li {
+  margin-left: 25px;
+}
+
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - */
+/*  Media                                            */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+h2 {
+  margin-top: 50px;
+}
+
+figure, video. iframe {
+  margin-top: 15px;
+}
+
+iframe {
+  margin-top: 25px;
+}
+
+img {
+  width: 100%;
+}
+
+audio {
+  margin-top: 15px;
+  width: 100%;
+}

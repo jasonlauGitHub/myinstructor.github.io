@@ -1,10 +1,10 @@
 @charset "UTF-8";
-
-/* Importing a CSS file */
 @import "base.css";
 
 
-/* Header */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - */
+/*  Header                                           */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 header {
   background-color: #00945f;
@@ -49,7 +49,7 @@ nav ul li a:hover {
   color: #00945f;
 }
 
-/* Adding a style to all <li> that follows another <li> - skip the first one */
+/* Selects the first <li> element that is placed immediately after another <li> */
 nav ul li + li {
   margin-left: 25px;
 }
