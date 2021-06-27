@@ -1,0 +1,35 @@
+@import "base.css";
+
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - */
+/*  Full page background                             */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+header {
+  height: 56px;
+  background-color: transparent;
+}
+
+body {
+  /*
+    The forward slash is required syntax for separating background position
+    values and background size values. This is to eliminate misinterpretation
+    of the values specified
+  */
+  background: #fff url("desert.jpg") center center / cover no-repeat fixed;
+}
+
+article {
+  padding-top: 60px;
+}
+
+
+/* CSS pseudo classes */
+p:first-of-type {
+  margin-top: 20px;
+}
+
+p {
+  margin-top: 10px;
+  line-height: 1.5;
+}
