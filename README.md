@@ -5,7 +5,7 @@
 - [Intro to OOP](https://myinstructor.github.io/Courses/oop_1.html)
 
 
-### Web development basics (examples)
+### Web development basics (HTML examples)
 
 - [Header](https://myinstructor.github.io/Examples/HTML/header.html)
 - [Float](https://myinstructor.github.io/Examples/HTML/float.html)
@@ -16,6 +16,15 @@
 - [Animation](https://myinstructor.github.io/Examples/HTML/animation.html)
 - [Fixed background](https://myinstructor.github.io/Examples/HTML/background.html)
 - [Two columns layout](https://myinstructor.github.io/Examples/HTML/columns.html)
+
+
+### Web development basics (JS examples)
+
+- [Write](https://myinstructor.github.io/Examples/JavaScript/write.html)
+- [Alert](https://myinstructor.github.io/Examples/JavaScript/alert.html)
+- [Values](https://myinstructor.github.io/Examples/JavaScript/values.html)
+- [Types](https://myinstructor.github.io/Examples/JavaScript/types.html)
+- [Variables](https://myinstructor.github.io/Examples/JavaScript/variables.html)
 
 
 ### Useful links
