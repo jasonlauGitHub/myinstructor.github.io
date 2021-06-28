@@ -2,7 +2,7 @@
 
 ### Object oriented programming (slides)
 
-- [Introduction](https://myinstructor.github.io/Courses/oop_1.html)
+- [Intro to OOP](https://myinstructor.github.io/Courses/oop_1.html)
 
 
 ### Web development basics (examples)
@@ -15,6 +15,7 @@
 - [Form](https://myinstructor.github.io/Examples/HTML/form.html)
 - [Animation](https://myinstructor.github.io/Examples/HTML/animation.html)
 - [Fixed background](https://myinstructor.github.io/Examples/HTML/background.html)
+- [Two columns layout](https://myinstructor.github.io/Examples/HTML/columns.html)
 
 
 ### Useful links
