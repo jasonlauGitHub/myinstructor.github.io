@@ -38,3 +38,5 @@
 - [Learn jQuery](https://learn.jquery.com/)
 - [Learn Java I](https://www.programiz.com/java-programming)
 - [Learn Java II](https://www.learnjavaonline.org/)
+- [UML](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/)
+- [Class diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
