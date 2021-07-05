@@ -10,6 +10,8 @@ public class Convert {
   public static void main(String[] args) {
     Convert c = new Convert();
 
+    // new Convert().nameOfTheMethod();
+
     // double fahrenheit = c.toFahrenheit(12);
     // System.out.println(fahrenheit);
     // System.out.println(c.toFahrenheit(32.8));
