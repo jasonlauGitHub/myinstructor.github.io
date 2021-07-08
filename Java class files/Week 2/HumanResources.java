@@ -41,5 +41,21 @@ public class HumanResources {
     for (int i = 0; i < emp.length; i++) {
       emp[i].jobTitle();
     }
+
+    // Part 2 (class #6)
+    // for (int j = 0; j < emp.length; j++) {
+      // instanceof returns true or false
+    //  System.out.println(emp[j] instanceof Employee); // true
+    // }
+
+    // Setting values to instance variables (class fields)
+    Driver driver = new Driver();
+    driver.id = 1234;
+    driver.name = "Jack Smith";
+    driver.job = "Driver";
+
+    System.out.println(driver.id);
+    System.out.println(driver.name);
+    System.out.println(driver.job);
   }
 }
