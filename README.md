@@ -1,11 +1,17 @@
 ## My courses
 
-### Object oriented programming (slides)
+### Object oriented programming | Java
 
-- [Intro to OOP](https://myinstructor.github.io/Courses/oop_1.html)
+- [Introductio to OOP](https://myinstructor.github.io/Courses/oop_1.html)
 
 
-### Web development basics (HTML examples)
+### Introduction to IT
+
+- [Introduction to IT](https://myinstructor.github.io/Courses/intro_to_it.html)
+- [Programming languages and pseudocode](https://myinstructor.github.io/Courses/intro_to_it.html)
+
+
+### Web development (examples)
 
 - [Header](https://myinstructor.github.io/Examples/HTML/header.html)
 - [Float](https://myinstructor.github.io/Examples/HTML/float.html)
@@ -16,27 +22,31 @@
 - [Animation](https://myinstructor.github.io/Examples/HTML/animation.html)
 - [Fixed background](https://myinstructor.github.io/Examples/HTML/background.html)
 - [Two columns layout](https://myinstructor.github.io/Examples/HTML/columns.html)
+- [Write (JS)](https://myinstructor.github.io/Examples/JavaScript/write.html)
+- [Alert (JS)](https://myinstructor.github.io/Examples/JavaScript/alert.html)
+- [Values (JS)](https://myinstructor.github.io/Examples/JavaScript/values.html)
+- [Types (JS)](https://myinstructor.github.io/Examples/JavaScript/types.html)
+- [Variables (JS)](https://myinstructor.github.io/Examples/JavaScript/variables.html)
 
 
-### Web development basics (JS examples)
+### Additional resources
 
-- [Write](https://myinstructor.github.io/Examples/JavaScript/write.html)
-- [Alert](https://myinstructor.github.io/Examples/JavaScript/alert.html)
-- [Values](https://myinstructor.github.io/Examples/JavaScript/values.html)
-- [Types](https://myinstructor.github.io/Examples/JavaScript/types.html)
-- [Variables](https://myinstructor.github.io/Examples/JavaScript/variables.html)
+- [Introduction to pseudocode](https://towardsdatascience.com/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7)
+- [How to write pseudocode](https://blog.usejournal.com/how-to-write-pseudocode-a-beginners-guide-29956242698)
+- [What's a program flowchart?](https://www.edrawsoft.com/flowchart/program-flowchart-definition.html)
+- [Flowchart in programming](https://www.programiz.com/article/flowchart-programming)
 
 
 ### Useful links
 
-- [Atom text editor](https://atom.io/)
+- [Download Atom](https://atom.io/)
+- [Download VS code](https://code.visualstudio.com/download)
 - [W3Schools](https://www.w3schools.com/)
 - [HTML.com](https://html.com/)
 - [CSS reference](https://cssreference.io/)
 - [CSS tricks](https://css-tricks.com/)
 - [The modern JavaScript tutorial](https://javascript.info/)
-- [Learn jQuery](https://learn.jquery.com/)
 - [Learn Java I](https://www.programiz.com/java-programming)
 - [Learn Java II](https://www.learnjavaonline.org/)
-- [UML](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/)
-- [Class diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
+- [Google Blockly](https://developers.google.com/blockly)
+- [yEd live](https://www.yworks.com/yed-live/)
