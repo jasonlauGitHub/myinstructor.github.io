@@ -1,6 +1,6 @@
 ## My courses
 
-### Object oriented programming | Java
+### Object oriented programming - Java
 
 - [Introduction to OOP](https://myinstructor.github.io/Courses/intro_to_oop.html)
 
@@ -8,7 +8,7 @@
 ### Introduction to IT
 
 - [IT fundamentals](https://myinstructor.github.io/Courses/intro_to_it.html)
-- [Programming languages and pseudocode](https://myinstructor.github.io/Courses/intro_to_it.html)
+- [Programming languages and pseudocode](https://myinstructor.github.io/Courses/pseudocode.html)
 
 
 ### Web development (examples)
