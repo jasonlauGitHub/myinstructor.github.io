@@ -7,7 +7,7 @@
 
 ### Introduction to IT
 
-- [Introduction to IT](https://myinstructor.github.io/Courses/intro_to_it.html)
+- [IT fundamentals](https://myinstructor.github.io/Courses/intro_to_it.html)
 - [Programming languages and pseudocode](https://myinstructor.github.io/Courses/intro_to_it.html)
 
 
