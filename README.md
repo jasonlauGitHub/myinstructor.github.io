@@ -2,7 +2,7 @@
 
 ### Object oriented programming | Java
 
-- [Introductio to OOP](https://myinstructor.github.io/Courses/oop_1.html)
+- [Introduction to OOP](https://myinstructor.github.io/Courses/intro_to_oop.html)
 
 
 ### Introduction to IT
