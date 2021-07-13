@@ -11,6 +11,7 @@ public class Arrays_06 {
 
     sort(arr);
 
+    // for-each -  enhanced for
     for (int num : arr)
       System.out.print(num + " ");
 
