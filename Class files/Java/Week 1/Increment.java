@@ -7,7 +7,7 @@ public class Increment {
   public static void main(String[] args) {
     int x = 0;
 
-    int x = ++x;
+    int num = x++;
 
     System.out.println("X: " + x);
 

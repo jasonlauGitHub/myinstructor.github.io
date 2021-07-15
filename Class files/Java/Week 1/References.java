@@ -13,6 +13,7 @@ public class References {
 
     System.out.println(name == otherName);
 
+    // The 'new' operator means a constructor - we are creating an object
     String brand = new String("Samsung"); // This is an object
     String otherBrand = new String("Samsung");
 
