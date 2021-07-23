@@ -220,6 +220,11 @@ figure {
   width: 100%;
 }
 
+.vertical {
+  width: auto;
+  height: auto;
+}
+
 
 
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - */
