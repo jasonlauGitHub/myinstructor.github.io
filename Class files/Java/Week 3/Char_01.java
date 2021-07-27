@@ -15,7 +15,7 @@ public class Char_01 {
     char r = 'r';
     char n = '7';
 
-    // Conditionar operator (simple/short if-else statement)
+    // Conditional operator (simple/short if-else statement)
     System.out.println(Character.isDigit(r) ? "Is a number" : "Not a number");
     System.out.println(Character.isDigit(n) ? "Is a number" : "Not a number");
   }
