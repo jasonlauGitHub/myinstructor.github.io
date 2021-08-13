@@ -1,9 +1,9 @@
 // Strings
 
 /*
- * The String class is 'final', immutable and doens't need to be instantiated
- * with the 'new' operator. An immutable class has no setter methods, and the
- * getters cannot be overriden
+ *  The String class is 'final', immutable and doens't need to be instantiated
+ *  with the 'new' operator. An immutable class has no setter methods, and the
+ *  getters cannot be overriden
  */
 
  // The StringBuilder - mutable
