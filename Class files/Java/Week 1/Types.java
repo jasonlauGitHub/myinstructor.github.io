@@ -1,21 +1,22 @@
-// Primitive types
+// Data types - primitive types
 
 /*
- * Java has eight primitive data type. These data type represent the building
- * block for Java objects
+ * Java has eight primitive types. These data types represent the building
+ * blocks for Java objects.
  * Java is a strongly typed language
  */
+
 
 public class Types {
   public static void main(String[] args) {
     // These are local variables - they must be initialized
     boolean a = true;
-    char b = 'b';
-    byte c = 3;
-    short d = 4;
-    int e = 5;
-    long f = 456789l;
-    float g = 7.0f;
-    double h = 8.0;
+    char b = 'g';
+    byte c = 1;
+    short d = 2;
+    int e = 56; // Integer (wrapper classes)
+    long f = 23456789l;
+    float g = 3.4f;
+    double h = 6.78; // Double
   }
 }

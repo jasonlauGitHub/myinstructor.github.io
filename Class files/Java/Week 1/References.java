@@ -3,21 +3,21 @@
 /*
  * A reference type refers to an object. Unlike primitive types that hold their
  * values in the memory where the variable is allocated, reference types point
- * to an object by storing the memory address where the object is located
+ * to an object by storing the memory address where the object is allocated
  */
 
 public class References {
-  public static void main(String[] args) {
-    String name = "Andre"; // pool of strings
-    String otherName = "Andre";
+  // Another method here
 
-    System.out.println(name == otherName);
+  public static void main(String[] args) {
+    String name1 = "John Smith"; // pool of strings
+    String name2 = "John Smith";
 
     // The 'new' operator means a constructor - we are creating an object
-    String brand = new String("Samsung"); // This is an object
-    String otherBrand = new String("Samsung");
+    String brand1 = new String("Samsung");
+    String brand2 = new String("Samsung");
 
-    System.out.println(brand == otherBrand);
-    System.out.println(brand.equals(otherBrand));
+    // Creating an object from the 'References' class
+    References ref = new References();
   }
 }

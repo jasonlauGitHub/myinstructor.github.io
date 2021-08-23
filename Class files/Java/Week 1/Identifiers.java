@@ -1,9 +1,11 @@
 // Identifiers
 
 /*
- * An indentifier is a programmer-defined name that represents some element of
- * a program (class, method, variable)
+ * An identifier is a programmer-defined name that represents some element of
+ * a program (class, method, variable etc)
  */
+
+// Naming convention
 
 public class Identifiers {
   public static void main(String[] args) {
@@ -12,17 +14,15 @@ public class Identifiers {
     int _num_ = 3;
     String $name = "Andre";
 
-    int $2 = 2;
+    String postalCode = "A3B 3C5";
 
-    int million = 1_000_000; // readable
+    int million = 1_000_000; // + readable
 
     System.out.println(num);
     System.out.println($);
     System.out.println(_num_);
     System.out.println($name);
-    System.out.println($2);
     System.out.println(million);
-
-    // You can't create variable name that start with a number
+    System.out.println("Hello world"); // Literal
   }
 }
