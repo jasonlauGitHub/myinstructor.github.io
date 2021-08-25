@@ -7,7 +7,9 @@
  */
 
 public class References {
-  // Another method here
+  // These are the "class members"
+  // Instance variables
+  // Methods
 
   public static void main(String[] args) {
     String name1 = "John Smith"; // pool of strings
