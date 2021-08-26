@@ -39,7 +39,8 @@ h1, h2, div, p, a, li {
 
 header {
   min-width: 100%;
-  background-color: #38395d;
+  /* background: url('header.png') center center / cover no-repeat; */
+  background-color: #47A845;
   overflow: hidden;
 }
 
@@ -49,14 +50,14 @@ header {
 
 .title {
   width: 40%;
-  height: 56px;
+  height: 50px;
 }
 
 .title h1 {
   font-size: 20px;
   font-weight: 600;
   color: #fff;
-  line-height: 56px;
+  line-height: 50px;
   letter-spacing: .2px;
   text-transform: uppercase;
 }
@@ -64,7 +65,7 @@ header {
 nav {
   text-align: right;
   width: 60%;
-  height: 56px;
+  height: 50px;
   font-size: 100%;
 }
 
@@ -75,7 +76,7 @@ nav ul {
 
 nav ul li {
   display: inline;
-  line-height: 56px;
+  line-height: 50px;
   cursor: default;
 }
 
