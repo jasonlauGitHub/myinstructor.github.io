@@ -1,7 +1,7 @@
 // The if-else statement
 
 /*
- * The 'of-else' statement will execute one group of statements if its boolean
+ * The 'if-else' statement will execute one group of statements if its boolean
  * expression is true
  */
 

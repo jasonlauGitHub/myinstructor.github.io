@@ -1,4 +1,4 @@
-// The if-else statement
+// The if-else statement + logical operators
 
 public class If_04 {
   public static void main(String[] args) {

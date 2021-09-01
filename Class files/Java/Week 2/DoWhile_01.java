@@ -1,6 +1,6 @@
 // The do-while loop
 
-public class DoWhile {
+public class DoWhile_01 {
   public static void main(String[] args) {
     int money = 3;
 
